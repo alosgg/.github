@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Falos.gg&style=for-the-badge)](https://alos.gg)
 [![Discord](https://img.shields.io/discord/REPLACE_WITH_ID?style=for-the-badge&logo=discord)](https://discord.gg/alos)
 
-**Next-Generation Security & Performance Solutions**
+**We care about your protection.**
 
 </div>
 
